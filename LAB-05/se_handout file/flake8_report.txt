@@ -1,0 +1,5 @@
+museum_catalog.py:4:1: F401 'subprocess' imported but unused
+museum_catalog.py:18:80: E501 line too long (80 > 79 characters)
+museum_catalog.py:30:80: E501 line too long (84 > 79 characters)
+museum_catalog.py:66:1: E303 too many blank lines (3)
+museum_catalog.py:72:1: E303 too many blank lines (3)
